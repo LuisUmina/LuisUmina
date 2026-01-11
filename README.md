@@ -123,11 +123,11 @@ Follow me on my social networks for content about development, technology, and m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuisUmina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="LuisUmina's GitHub stats" />
+![LuisUmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisUmina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisUmina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisUmina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=LuisUmina&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=LuisUmina&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
