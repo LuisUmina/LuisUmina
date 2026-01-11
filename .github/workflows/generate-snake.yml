@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch: 
   push:
     branches:
       - main
@@ -11,10 +11,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk@v3

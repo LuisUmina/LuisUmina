@@ -116,7 +116,7 @@ Follow me on my social networks for content about development, technology, and m
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<!-- 
 ---
 
 ## 📊 GitHub Statistics
@@ -130,6 +130,8 @@ Follow me on my social networks for content about development, technology, and m
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=LuisUmina&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
+
+-->
 
 ---
 
@@ -170,6 +172,8 @@ Brief project description. Technologies used and purpose.
 ![Snake animation](https://raw.githubusercontent.com/LuisUmina/LuisUmina/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
 
 ---
 
